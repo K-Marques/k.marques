@@ -1,51 +1,45 @@
-<!-- README do perfil GitHub -->
+# K. Marques | Estudante de Ciência da Computação
 
-# 👋 Olá, eu sou a Karen Alexandra Marques
+| Dev em Formação (Front-end / Data Analyst) | Soluções com Power BI e Lógica de Programação |
 
-🎓 Estudante de **Ciência da Computação** (FAM, 2025–2028)  
-💻 Desenvolvedora em formação, focada em **Python, HTML, CSS, JavaScript e Power BI**  
-🌐 Portfólio: [Meu Site](https://k-marques.github.io/Meu-site/)  
-🔗 LinkedIn: [Clique aqui](https://www.linkedin.com/in/karen-alexandra-98a227349/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
----
-
-## 🚀 Projetos em destaque
-
-### 1️⃣ [Meu Site](https://github.com/K-Marques/Meu-site)
-- Site pessoal em **HTML, CSS e JS**  
-- Estrutura responsiva, botões interativos e layout moderno  
-- ![Preview do site](https://k-marques.github.io/Meu-site/assets/preview1.png) *(coloque print real aqui)*
-
-### 2️⃣ [Cadastro Frutas](https://github.com/K-Marques/cadastro-frutas)
-- Sistema de cadastro simples em **Python**  
-- Treino de lógica, listas e funções  
-- ![Preview do Python](https://raw.githubusercontent.com/K-Marques/cadastro-frutas/main/preview.png) *(coloque print real aqui)*
-
-### 3️⃣ [k.marques](https://github.com/K-Marques/k.marques)
-- Repositório para testes e estudos  
-- Estrutura inicial de portfólio e scripts em **Python e JS**
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
-- **Linguagens:** Python, JavaScript  
-- **Web:** HTML, CSS  
-- **BI & Dados:** Power BI (básico)  
-- **Versionamento:** Git e GitHub  
-- **Conceitos:** Lógica de Programação, POO, Estruturas de Dados  
+### 🧠 Sobre Mim
+
+Sou apaixonada por tecnologia e pela arte de resolver problemas. Atualmente curso **Ciência da Computação** e estou me aprofundando em **Desenvolvimento Web, Análise de Dados** e **Modelagem de Banco de Dados**.
+
+Estudo com foco e praticidade, aplicando o conhecimento em projetos práticos para solidificar o aprendizado em **HTML, CSS, JavaScript** e ferramentas de Business Intelligence.
 
 ---
 
-## 📸 Algumas publicações recentes
-- ![Post LinkedIn 1](https://media.licdn.com/dms/image/C4D22AQF6uHj4D7vHjQ/feedshare-shrink_800/0/1694891234567?e=2147483647&v=beta&t=EXEMPLO1) *(substituir pelo print real do post)*  
-- ![Post LinkedIn 2](https://media.licdn.com/dms/image/C4D22AQF6uHj4D7vHjQ/feedshare-shrink_800/0/1694891234567?e=2147483647&v=beta&t=EXEMPLO2) *(substituir pelo print real do post)*  
+### 🛠️ Hard Skills e Prática
+
+* **Desenvolvimento Web:** HTML5, CSS3, JavaScript (Em aprendizado avançado)
+* **Análise e Visualização:** Power BI, Excel
+* **Lógica e Algoritmos:** Linguagem Principal (Python/JavaScript)
+* **Banco de Dados:** Modelagem e Consultas (SQL básico)
 
 ---
 
-## 📫 Contato
-- Email: marques.dev@outlook.com.br  
-- Celular: +55 14 99172-8368  
+### 📂 Projetos em Destaque
+
+* 🔸 **Dashboards com Power BI:** Visualizações interativas para análise de dados simulados de Vendas, Logística.
+* 🔸 **Projetos de Front-end:** Repositórios com Landing Pages responsivas utilizando HTML/CSS e manipulação de DOM com JavaScript.
+* 🔸 **Lógica de Programação e Estruturas de Dados:** Fundamentos sólidos em lógica de programação (aplicados em **Pseudocódigo / VisualG**) e prática com estruturas condicionais e de repetição.
 
 ---
 
-**“Sempre aprendendo, sempre evoluindo.”** 🚀
+### 📫 Contato
+
+📍 Brasil
+🔗 https://www.linkedin.com/in/karen-alexandra-98a227349/
+📧 marques.dev@outlook.com.br
+
+🤝 Este perfil está aberto a colaborações e troca de conhecimentos. Vamos crescer juntas! 🚀
