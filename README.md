@@ -34,22 +34,14 @@ Estudo com foco e praticidade, aplicando o conhecimento em projetos práticos pa
 * 🔸 **[Meu Site](https://github.com/K-Marques/Meu-site)**  
   - Landing Page responsiva em HTML/CSS/JS  
   - Botões interativos e layout moderno  
-  - ![Preview do Meu Site](https://k-marques.github.io/Meu-site/assets/preview1.png) *(adicione print real)*  
+  
 
 * 🔸 **[Cadastro Frutas](https://github.com/K-Marques/cadastro-frutas)**  
   - Sistema de cadastro simples em Python  
-  - Exercícios de lógica, listas e funções  
-  - ![Preview Cadastro Frutas](https://raw.githubusercontent.com/K-Marques/cadastro-frutas/main/preview.png) *(adicione print real)*  
+  - Exercícios de lógica, listas e funções   
 
 * 🔸 **[k.marques](https://github.com/K-Marques/k.marques)**  
   - Repositório para estudos, testes e pequenos scripts  
-
----
-
-### 📸 Publicações Recentes
-
-* ![Post LinkedIn 1](https://media.licdn.com/dms/image/C4D22AQF6uHj4D7vHjQ/feedshare-shrink_800/0/1694891234567?e=2147483647&v=beta&t=EXEMPLO1) *(adicione print real)*  
-* ![Post LinkedIn 2](https://media.licdn.com/dms/image/C4D22AQF6uHj4D7vHjQ/feedshare-shrink_800/0/1694891234567?e=2147483647&v=beta&t=EXEMPLO2) *(adicione print real)*  
 
 ---
 
